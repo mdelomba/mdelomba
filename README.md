@@ -1,10 +1,8 @@
-### Current Goals
----
+## Programming Goals (2025)
 #### Courses:
 - [ ] Complete the freeCodeCamp Certified Full Stack Developer Curriculum.
   - I want to learn more about full stack web development.
   - This is a free resource to practice that.
-
      
 #### Reading Material:
 - [ ] Read through "The Rust Programming Language".
@@ -14,7 +12,6 @@
   - I want to be an effective leader and I'll take all the help I can get to achieve that.
   - I'm hoping to get some good nuggets of information from this book on the subject.
      
-
 #### Projects:
 - [ ] A website that displays Pokemon TCG cards and information about them.
   - I've been playing Pokemon video games since I was a kid and think this would be a fun project to tackle.
