@@ -1,8 +1,12 @@
 ## Programming Goals (2025)
 #### Courses:
-- [ ] Complete the freeCodeCamp Certified Full Stack Developer Curriculum.
+- Complete the freeCodeCamp Certified Full Stack Developer Curriculum.
   - I want to learn more about full stack web development.
   - This is a free resource to practice that.
+  - [ ] Complete HTML section
+  - [ ] Complete CSS section
+  - [ ] Complete JavaScript section
+  - [ ] Complete Front End Libraries section. 
      
 #### Reading Material:
 - [ ] Read through "The Rust Programming Language".
