@@ -11,7 +11,7 @@
 - Complete the freeCodeCamp Certified Full Stack Developer Curriculum.
   - I want to learn more about full stack web development.
   - This is a free resource to practice that.
-  - [ ] Complete HTML section
+  - [x] Complete HTML section
   - [ ] Complete CSS section
   - [ ] Complete JavaScript section
   - [ ] Complete Front End Libraries section. 
@@ -20,7 +20,7 @@
 - [ ] Read through "The Rust Programming Language".
   - Rust seems like an exciting new language to learn.
   - I completed the Rustlings course and I'm looking to get more insight into the language.
-- [ ] Read through "A Manager's Path".
+- [x] Read through "A Manager's Path".
   - I want to be an effective leader and I'll take all the help I can get to achieve that.
   - I'm hoping to get some good nuggets of information from this book on the subject.
      
